@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "96175240131",
+    "project_id": "simplepos-2023",
+    "storage_bucket": "simplepos-2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96175240131:android:86b0deece96c9d273d8376",
+        "android_client_info": {
+          "package_name": "com.raeiverse.pos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96175240131-ods17i1mdidhlui62a5p52che84i3cos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKZHlVzh55w11bBrG1rMwHJH4gOsmsNIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96175240131-ods17i1mdidhlui62a5p52che84i3cos.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
